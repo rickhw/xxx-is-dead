@@ -8,6 +8,9 @@
 ---
 ## Other ... [XXX] is dead
 
+* Microservice is dead
+  - 2022/10/07: [microservice 應該是正式死透了。
+](https://www.facebook.com/mosky.liu/posts/pfbid02gTxk8jYS1QQXBiTyG7yZHypyWPQhFCzqXRM93YGrkJAHpm445VmMSTcgqpFJx8EUl)
 * QA is dead
 * Java is dead
 * Ruby is dead
