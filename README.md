@@ -16,3 +16,6 @@
 * Ruby is dead
 * RoR is dead
 * Agile is dead
+* TDD is dead
+  - 2014/04/23: [TDD is dead. Long live testing.](https://dhh.dk/2014/tdd-is-dead-long-live-testing.html) - DHH
+  - [Is TDD Dead?](https://martinfowler.com/articles/is-tdd-dead/) - Martin Fowler
