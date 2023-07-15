@@ -8,6 +8,7 @@
 ---
 ## Other ... [XXX] is dead
 
+- [API Design Reviews Are Dead. Long Live API Design Reviews!](https://www.infoq.com/articles/api-design-review/), [簡中](https://www.infoq.cn/article/shlKO1bTHS2tCFiFpNe1
 * Microservice is dead
   - 2022/10/07: [microservice 應該是正式死透了。
 ](https://www.facebook.com/mosky.liu/posts/pfbid02gTxk8jYS1QQXBiTyG7yZHypyWPQhFCzqXRM93YGrkJAHpm445VmMSTcgqpFJx8EUl)
