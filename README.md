@@ -24,3 +24,5 @@
   - 2014/04/23: [TDD is dead. Long live testing.](https://dhh.dk/2014/tdd-is-dead-long-live-testing.html) - DHH
   - [Is TDD Dead?](https://martinfowler.com/articles/is-tdd-dead/) - Martin Fowler
   - [Enterprise Architecture is declared dead](https://www.linkedin.com/pulse/enterprise-architecture-declared-dead-reid-hauke-t%C3%B8nnesen/)
+- PHP is dead
+![](E2E18387-4AB0-4572-B0A2-9AA4D46AF736.jpeg)
